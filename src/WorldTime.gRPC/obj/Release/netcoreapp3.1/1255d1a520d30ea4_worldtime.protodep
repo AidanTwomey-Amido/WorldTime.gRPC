@@ -1,2 +1,0 @@
-obj/Release/netcoreapp3.1/Worldtime.cs \
-obj/Release/netcoreapp3.1/WorldtimeGrpc.cs: Protos/worldtime.proto
