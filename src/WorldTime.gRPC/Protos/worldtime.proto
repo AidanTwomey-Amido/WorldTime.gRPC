@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "WorldTime.gRPC";
+
+package WorldTime;
+
+service WorldTime {
+    // Sends a greeting
+    rpc GetTime (Point) returns (WorldTimeReply);
+}
+
+message WorldTimeReply {
+    string localtime = 1;
+}
+
+message Point {
+    double latitude = 1;
+    double longitude = 2;
+}

@@ -1,0 +1,8 @@
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/bin/Release/netcoreapp3.1/WorldTime.Calculations.deps.json
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/bin/Release/netcoreapp3.1/WorldTime.Calculations.dll
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/bin/Release/netcoreapp3.1/WorldTime.Calculations.pdb
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/obj/Release/netcoreapp3.1/WorldTime.Calculations.AssemblyInfoInputs.cache
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/obj/Release/netcoreapp3.1/WorldTime.Calculations.AssemblyInfo.cs
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/obj/Release/netcoreapp3.1/WorldTime.Calculations.dll
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/obj/Release/netcoreapp3.1/WorldTime.Calculations.pdb
+/Users/aidan.twomey/src/demo/WorldTime.gRPC/src/WorldTime.Calculations/obj/Release/netcoreapp3.1/WorldTime.Calculations.csprojAssemblyReference.cache
