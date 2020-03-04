@@ -5,7 +5,6 @@ option csharp_namespace = "WorldTime.gRPC";
 package WorldTime;
 
 service WorldTime {
-    // Sends a greeting
     rpc GetTime (Point) returns (WorldTimeReply);
 }
 
